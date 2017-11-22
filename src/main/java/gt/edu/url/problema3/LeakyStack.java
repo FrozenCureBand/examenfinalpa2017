@@ -4,7 +4,7 @@ package gt.edu.url.problema3;
  * Historic stack ADT representation
  */
 
-public interface LeakyStack<E> {
+public interface LeakyStack<E>{
 
 	/**
 	 * Returns stack elements count
